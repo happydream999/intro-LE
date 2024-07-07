@@ -39,7 +39,7 @@ const Header = ({ data }) => {
         <HeaderWrap>
           <HeaderLogoWrap>
             <HeaderLogoLink to={data.homeLink} aria-label={data.header.label}>
-              Nakamura Araki
+              Lim Eric
             </HeaderLogoLink>
           </HeaderLogoWrap>
           <HeaderMenu>

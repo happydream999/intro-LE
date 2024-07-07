@@ -32,7 +32,7 @@ const Footer = ({ data, trim }) => {
                 to={data.homeLink}
                 aria-label={data.footer.label}
               >
-               Nakamura Araki
+               Lim Eric
               </FooterLogoLink>
             </FooterLogoWrap>
             <FooterNavWrap>

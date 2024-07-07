@@ -9,27 +9,27 @@ import instagram from "../../assets/images/shared/desktop/icon-instagram.svg";
 export const menuData = {
   header: {
     headerLogo: logoDark,
-    headerLogoAlt: "Nakamura Araki web agency",
+    headerLogoAlt: "Lim Eric web agency",
     label: "visit homepage",
   },
   footer: {
     footerLogo: logoLight,
-    footerLogoAlt: "Nakamura Araki",
+    footerLogoAlt: "Lim Eric",
     label: "go back to homepage",
   },
   homeLink: "/",
   address: {
     office: "Central Office",
-    street: "7802 TIDWELL RD",
-    city: "HOUSTON",
+    street: "2728 POINT REYES WAY",
+    city: "SACRAMENTO",
   },
   contact: {
     title: "Contact Me (Central Office)",
-    phone: "+1 856-549-1102",
-    phoneLink: "tel:+1 856-549-1102",
+    phone: "+1 540-881-2949",
+    phoneLink: "tel:+1 540-881-2949",
     phoneLabel: "call us via our official number",
-    email: "NAKAMURAARAKI336@outlook.com",
-    emailLink: "mailto:NAKAMURAARAKI336@outlook.com",
+    email: "GREGORYNEELEYLLC@outlook.com",
+    emailLink: "mailto:GREGORYNEELEYLLC@outlook.com",
     emailLabel: "send us an email",
   },
   social: [

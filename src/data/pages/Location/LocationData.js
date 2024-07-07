@@ -16,17 +16,17 @@ export const locationData = {
     image: CanadaImage,
     anchorLink: "",
     address: {
-      office: "Nakamura Araki Central Office",
-      street: "7802 TIDWELL RD",
-      state: "Houston, Texas, 77028",
+      office: "Lim Eric Central Office",
+      street: "2728 POINT REYES WAY",
+      state: "SACRAMENTO, California, 95826",
     },
     contact: {
       header: "Contact",
-      phone: "+1 856-549-1102",
-      mail: "NAKAMURAARAKI336@outlook.com",
+      phone: "+1 540-881-2949",
+      mail: "GREGORYNEELEYLLC@outlook.com",
     },
     map: {
-      src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3460.572102628555!2d-95.2869104!3d29.8477706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640ba6af8fcc29f%3A0x5cbb05e4120168b2!2s7802%20Tidwell%20Rd%2C%20Houston%2C%20TX%2077028%2C%20USA!5e0!3m2!1sen!2sru!4v1717208635477!5m2!1sen!2sru",
+      src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835434812661!2d-121.36107348507592!3d38.56299997975161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809adb5c7af3c1a7%3A0x390f5974692ceefd!2s2728+Point+Reyes+Way%2C+Sacramento%2C+CA!5e0!3m2!1sen!2sus!4v1672443982009",
     },
   },
 };
